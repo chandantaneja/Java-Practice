@@ -5,6 +5,7 @@ import java.util.Scanner;
 /**
  * Write a Java program to count the letters, spaces, numbers and other characters of an input string.
  */
+
 public class CountLettersSpacesSpecialChars {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
