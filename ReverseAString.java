@@ -3,7 +3,7 @@ package Basics;
 import java.util.Scanner;
 
 /**
- *  Write a Java program to reverse a string.
+ *  a Java program to reverse a string.
  */
 public class ReverseAString {
     public static void main(String[] args) {
